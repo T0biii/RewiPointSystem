@@ -7,3 +7,10 @@ Enter name and "Get Playerstats" gives Score and composition in console
 
 
 To add extraplayers open "Names.txt" and add names to the List
+
+
+   1 python -m pip install --upgrade pip
+   2 pip install bs4
+   3 pip install xlsxwriter
+   4 pip install requests
+   5 pip install lxml
